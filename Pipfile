@@ -11,6 +11,7 @@ ipywidgets = ">=7"
 notebook = "*"
 plotly = "~=4.0"
 rise = "*"
+poliastro = "~=0.13.0"
 
 [requires]
 python_version = "3.7"
