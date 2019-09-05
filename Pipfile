@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numba = "~=0.45"
+ipywidgets = ">=7"
+notebook = "*"
+plotly = "~=4.0"
+rise = "*"
+
+[requires]
+python_version = "3.7"
